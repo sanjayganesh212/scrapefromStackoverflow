@@ -70,9 +70,13 @@ request :
 Other Ideas To Implements in furture 
 
 *--> Socket.io connections implementation 
+
 *--> Limit Req Size 
+
 *--> Make as Micro-server architecture
+
 *--> Implementation Of redis 
+
 *--> JWT Token Implementaion 
 
 
